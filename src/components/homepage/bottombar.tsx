@@ -22,7 +22,7 @@ const Bottombar = () => {
                     <Image src={"/icons/moneyback.png"} alt="" width={600} height={600} className="w-full h-full object-cover" />
                 </div>
                 <h2 className="text-xl font-medium pt-5">MONEY BACK GUARANTEE</h2>
-                <span className="text-sm">We reurn money within 30 days</span>
+                <span className="text-sm">We return money within 30 days</span>
             </div>
         </div>
     )
