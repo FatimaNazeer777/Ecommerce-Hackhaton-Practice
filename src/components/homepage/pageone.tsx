@@ -11,7 +11,7 @@ const sidebarList = [
     "Baby's & Toys",
     "Groceries & Pets",
     "Health & Beauty"
-]
+    ]
 
 const Pageone = () => {
     return (
